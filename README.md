@@ -8,7 +8,7 @@
 
 ## Использованые фреймворки/библиотеки/сервисы
 
-![alt-текст](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-48.png "React")[https://ru.reactjs.org/](**React**)
+![alt-текст](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-48.png "React")[**React**](https://ru.reactjs.org/)
 ![alt-текст](https://www.pngrepo.com/png/306383/48/material-ui.png "Material-UI") **Material-UI**
 ![alt-текст](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/firebase-48.png "FireBase")**FireBase**
 
