@@ -14,7 +14,7 @@
 
 ![alt-текст](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/firebase-48.png "FireBase") [**FireBase**](https://firebase.google.com/)
 
-![alt-текст](https://i.piccy.info/i9/7fc46e30907d30a2fd7a6a96feeec5ba/1631205932/937/1441344/framer.png "Framer motion") [**Framer motion**](https://www.framer.com/motion/)
+![alt-текст](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/framer-48.png "Framer motion") [**Framer motion**](https://www.framer.com/motion/)
 
 ![alt-текст](https://cdn2.iconfinder.com/data/icons/miscellaneous-14-line/128/fontawesome_flag_banner_Ensign-48.png "FontAwesome") [**FontAwesome**](https://fontawesome.com/)
 
